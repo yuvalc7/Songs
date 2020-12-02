@@ -8,8 +8,8 @@ A simple React App with Redux that show title and description of chosen song whe
 
 ### `quick start`
 - open terminal and navigate to App directory
-- run `npm start`:.\ 
-       - Runs the app in the development mode 
+- run `npm start`: .\ 
+       - Runs the app in the development mode .\
        - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
